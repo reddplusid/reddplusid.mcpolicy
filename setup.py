@@ -35,6 +35,7 @@ setup(name='reddplusid.mcpolicy',
         'collective.contentleadimage',
         'collective.documentviewer',
         'collective.carousel',
+        'collective.quickupload',
           # -*- Extra requirements: -*-
       ],
       extras_require={
