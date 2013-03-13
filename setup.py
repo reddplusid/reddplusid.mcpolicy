@@ -43,6 +43,7 @@ setup(name='reddplusid.mcpolicy',
         'collective.plonetruegallery',
         'collective.flowplayer',
         'collective.quickupload',
+        'collective.portlet.usertrack',
       ],
       extras_require={
           'test': [
