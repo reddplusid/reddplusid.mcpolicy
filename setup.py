@@ -43,7 +43,8 @@ setup(name='reddplusid.mcpolicy',
         'collective.carousel',
         'collective.plonetruegallery',
         'collective.flowplayer',
-
+        'collective.quickupload',
+          # -*- Extra requirements: -*-
       ],
       extras_require={
           'test': [
@@ -61,4 +62,3 @@ setup(name='reddplusid.mcpolicy',
       setup_requires=["PasteScript"],
       paster_plugins=["templer.localcommands"],
 
-      )
