@@ -32,7 +32,6 @@ setup(name='reddplusid.mcpolicy',
         'reddplusid.mission',
         'reddplusid.missionreport',
         'reddplusid.mctheme',
-        'p01.vocabulary.country',
           # -*- Extra requirements: -*-
         'eea.facetednavigation',
         'Solgema.fullcalendar',
@@ -44,7 +43,6 @@ setup(name='reddplusid.mcpolicy',
         'collective.plonetruegallery',
         'collective.flowplayer',
         'collective.quickupload',
-          # -*- Extra requirements: -*-
       ],
       extras_require={
           'test': [
@@ -61,4 +59,4 @@ setup(name='reddplusid.mcpolicy',
       # your package.
       setup_requires=["PasteScript"],
       paster_plugins=["templer.localcommands"],
-
+)
