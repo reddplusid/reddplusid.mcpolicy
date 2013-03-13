@@ -29,13 +29,21 @@ setup(name='reddplusid.mcpolicy',
         'plone.app.dexterity',
         'plone.namedfile [blobs]',
         'collective.grok',
+        'reddplusid.mission',
+        'reddplusid.missionreport',
+        'reddplusid.mctheme',
+        'p01.vocabulary.country',
+          # -*- Extra requirements: -*-
         'eea.facetednavigation',
         'Solgema.fullcalendar',
         'Products.ContentWellPortlets',
+        'Products.feedfeeder',
         'collective.contentleadimage',
         'collective.documentviewer',
         'collective.carousel',
-          # -*- Extra requirements: -*-
+        'collective.plonetruegallery',
+        'collective.flowplayer',
+
       ],
       extras_require={
           'test': [
