@@ -32,6 +32,7 @@ setup(name='reddplusid.mcpolicy',
         'reddplusid.mission',
         'reddplusid.missionreport',
         'reddplusid.mctheme',
+        'reddplusid.attachments',
           # -*- Extra requirements: -*-
         'eea.facetednavigation',
         'Solgema.fullcalendar',
