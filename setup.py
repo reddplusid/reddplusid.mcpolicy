@@ -45,6 +45,7 @@ setup(name='reddplusid.mcpolicy',
         'collective.flowplayer',
         'collective.quickupload',
         'collective.portlet.usertrack',
+        'collective.externaleditor',
       ],
       extras_require={
           'test': [
