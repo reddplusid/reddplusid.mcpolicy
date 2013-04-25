@@ -48,6 +48,7 @@ setup(name='reddplusid.mcpolicy',
         'collective.portlet.usertrack',
         'collective.externaleditor',
 	'plone.app.changeownership',
+        'reddplusid.registration'
       ],
       extras_require={
           'test': [
